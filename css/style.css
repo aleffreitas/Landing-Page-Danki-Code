@@ -43,7 +43,7 @@ html,body{
 }
 
 .form{
-    padding: 10px;
+    padding: 20px;
     width: 400px;
     height: calc(100% + 30px);
     float: right;
